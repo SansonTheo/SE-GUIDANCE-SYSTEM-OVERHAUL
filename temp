@@ -1,0 +1,126 @@
+
+                        " Friendly
+                        " Unhappy
+                         Cheerful
+                         Reserved
+                         Pessimistic
+                         Lazy
+                         Stubborn
+                         Shy
+                         Submissive
+                         Capable
+                         Self-confident
+                         Excitable
+                         Tolerant
+                         Jealous
+                         Irritable
+                         Calm
+                         Talented
+                         Poor Health
+                         Anxious
+                         Quick-tempered
+                         Frequently Daydreaming
+                         Depressed
+                         Cynical
+                         Tactful
+                         Lovable
+                         Easily Exhausted
+                         Conscientious
+                         Aloof
+                         Quiet
+                        3 Talkative
+
+                        
+                        Friendly
+                        Unhappy
+                        Cheerful
+                        Reserved
+                        Pessimistic
+                        Lazy
+                        Stubborn
+                        Shy
+                        Submissive
+                        Capable
+                        Self-confident
+                        Excitable
+                        Tolerant
+                        Jealous
+                        Irritable
+                        Calm
+                        Talented
+                        Poor Health
+                        Anxious
+                        Quick-tempered
+                        Frequently Daydreaming
+                        Depressed
+                        Cynical
+                        Tactful
+                        Lovable
+                        Easily Exhausted
+                        Conscientious
+                        Aloof
+                        Quiet
+                        Talkative
+
+                        <input type="checkbox" id="trait1" name="trait1" value="1"><label for="vehicle1">Friendly</label>
+                        <input type="checkbox" id="trait2" name="trait2" value="2"><label for="vehicle1">Unhappy</label>
+                        <input type="checkbox" id="trait3" name="trait3" value="3"><label for="vehicle1">Cheerful</label>
+                        <input type="checkbox" id="trait4" name="trait4" value="4"><label for="vehicle1">Reserved</label>
+                        <input type="checkbox" id="trait5" name="trait5" value="5"><label for="vehicle1">Pessimistic</label>
+                        <input type="checkbox" id="trait6" name="trait6" value="6"><label for="vehicle1">Lazy</label>
+                        <input type="checkbox" id="trait7" name="trait7" value="7"><label for="vehicle1">Stubborn</label>
+                        <input type="checkbox" id="trait8" name="trait8" value="8"><label for="vehicle1">Shy</label>
+                        <input type="checkbox" id="trait9" name="trait9" value="9"><label for="vehicle1">Submissive</label>
+                        <input type="checkbox" id="trait10" name="trait10" value="10"><label for="vehicle1">Capable</label>
+                        <input type="checkbox" id="trait11" name="trait11" value="11"><label for="vehicle1">Self-confident</label>
+                        <input type="checkbox" id="trait12" name="trait12" value="12"><label for="vehicle1">Excitable</label>
+                        <input type="checkbox" id="trait13" name="trait13" value="13"><label for="vehicle1">Tolerant</label>
+                        <input type="checkbox" id="trait14" name="trait14" value="14"><label for="vehicle1">Jealous</label>
+                        <input type="checkbox" id="trait15" name="trait15" value="15"><label for="vehicle1">Irritable</label>
+                        <input type="checkbox" id="trait16" name="trait16" value="16"><label for="vehicle1">Calm</label>
+                        <input type="checkbox" id="trait17" name="trait17" value="17"><label for="vehicle1">Talented</label>
+                        <input type="checkbox" id="trait18" name="trait18" value="18"><label for="vehicle1">Poor Health</label>
+                        <input type="checkbox" id="trait19" name="trait19" value="19"><label for="vehicle1">Anxious</label>
+                        <input type="checkbox" id="trait20" name="trait20" value="20"><label for="vehicle1">Quick-tempered</label>
+                        <input type="checkbox" id="trait21" name="trait21" value="21"><label for="vehicle1">Frequently Daydreaming</label>
+                        <input type="checkbox" id="trait22" name="trait22" value="22"><label for="vehicle1">Depressed</label>
+                        <input type="checkbox" id="trait23" name="trait23" value="23"><label for="vehicle1">Cynical</label>
+                        <input type="checkbox" id="trait24" name="trait24" value="24"><label for="vehicle1">Tactful</label>
+                        <input type="checkbox" id="trait25" name="trait25" value="25"><label for="vehicle1">Lovable</label>
+                        <input type="checkbox" id="trait26" name="trait26" value="26"><label for="vehicle1">Easily Exhausted</label>
+                        <input type="checkbox" id="trait27" name="trait27" value="27"><label for="vehicle1">Conscientious</label>
+                        <input type="checkbox" id="trait28" name="trait28" value="28"><label for="vehicle1">Aloof</label>
+                        <input type="checkbox" id="trait29" name="trait29" value="29"><label for="vehicle1">Quiet</label>
+                        <input type="checkbox" id="trait30" name="trait30" value="30"><label for="vehicle1">Talkative</label>
+
+                        <input type="checkbox" id="1" name="1" value="1"><label for="vehicle1">Friendly</label>
+                        <input type="checkbox" id="2" name="2" value="2"><label for="vehicle1">Unhappy</label>
+                        <input type="checkbox" id="3" name="3" value="3"><label for="vehicle1">Cheerful</label>
+                        <input type="checkbox" id="4" name="4" value="4"><label for="vehicle1">Reserved</label>
+                        <input type="checkbox" id="5" name="5" value="5"><label for="vehicle1">Pessimistic</label>
+                        <input type="checkbox" id="6" name="6" value="6"><label for="vehicle1">Lazy</label>
+                        <input type="checkbox" id="7" name="7" value="7"><label for="vehicle1">Stubborn</label>
+                        <input type="checkbox" id="8" name="8" value="8"><label for="vehicle1">Shy</label>
+                        <input type="checkbox" id="9" name="9" value="9"><label for="vehicle1">Submissive</label>
+                        <input type="checkbox" id="10" name="10" value="10"><label for="vehicle1">Capable</label>
+                        <input type="checkbox" id="11" name="11" value="11"><label for="vehicle1">Self-confident</label>
+                        <input type="checkbox" id="12" name="12" value="12"><label for="vehicle1">Excitable</label>
+                        <input type="checkbox" id="13" name="13" value="13"><label for="vehicle1">Tolerant</label>
+                        <input type="checkbox" id="14" name="14" value="14"><label for="vehicle1">Jealous</label>
+                        <input type="checkbox" id="15" name="15" value="15"><label for="vehicle1">Irritable</label>
+                        <input type="checkbox" id="16" name="16" value="16"><label for="vehicle1">Calm</label>
+                        <input type="checkbox" id="17" name="17" value="17"><label for="vehicle1">Talented</label>
+                        <input type="checkbox" id="18" name="18" value="18"><label for="vehicle1">Poor Health</label>
+                        <input type="checkbox" id="19" name="19" value="19"><label for="vehicle1">Anxious</label>
+                        <input type="checkbox" id="20" name="20" value="20"><label for="vehicle1">Quick-tempered</label>
+                        <input type="checkbox" id="21" name="21" value="21"><label for="vehicle1">Frequently Daydreaming</label>
+                        <input type="checkbox" id="22" name="22" value="22"><label for="vehicle1">Depressed</label>
+                        <input type="checkbox" id="23" name="23" value="23"><label for="vehicle1">Cynical</label>
+                        <input type="checkbox" id="24" name="24" value="24"><label for="vehicle1">Tactful</label>
+                        <input type="checkbox" id="25" name="25" value="25"><label for="vehicle1">Lovable</label>
+                        <input type="checkbox" id="26" name="26" value="26"><label for="vehicle1">Easily Exhausted</label>
+                        <input type="checkbox" id="27" name="27" value="27"><label for="vehicle1">Conscientious</label>
+                        <input type="checkbox" id="28" name="28" value="28"><label for="vehicle1">Aloof</label>
+                        <input type="checkbox" id="29" name="29" value="29"><label for="vehicle1">Quiet</label>
+                        <input type="checkbox" id="30" name="30" value="30"><label for="vehicle1">Talkative</label>
+                        
